@@ -8,5 +8,5 @@
 + [Mongo](http://www.mongodb.org/)
 
 ```
-npm install
+$grunt serve
 ```
