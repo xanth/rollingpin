@@ -13,5 +13,6 @@
 ```
 git clone https://github.com/xanth/rollingpin.git && cd rollingpin
 npm install
+bower update
 grunt serve
 ```
